@@ -1,7 +1,7 @@
 body {
 	margin: 0px;
 	background-color: #ccc;
-	background-image: url("bgwood.jpg") ;
+	background-image: url("bgwood.jpg");
 	font-family: 'Georgia', serif;
 	font-color: #777777;
 	}
@@ -114,6 +114,7 @@ body {
 	footer {
 		position: absolute;
 		width:100%;
+		background-color: #666666;
 	}
 
 	#push{
@@ -131,7 +132,7 @@ body {
 		position: absolute;
 		left: 0;
 		bottom: 0;
-		width: 100%;
+		width: 960px;
 	}
 
 	.clearfix {
